@@ -1,0 +1,8 @@
+{
+ "compilerOptions" : {
+  "target" : "es5",
+  "alwaysStrict" : true,
+  "outDir" : "build",
+  "removeComments" : true
+ }
+}
