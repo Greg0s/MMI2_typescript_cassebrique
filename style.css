@@ -1,0 +1,25 @@
+body {
+ padding: 0px;
+ margin: 0px;
+ background-color: #DDDDDD;
+}
+
+#scene {
+ /*pointer-events: none;*/
+ /*overflow: hidden;*/
+
+ background-color: #FFFFFF;
+ box-shadow: 12px 12px 4px rgba(150,150,150,0.75);
+}
+
+#zone{
+    background-color: grey;
+}
+
+#score{
+    background:#DE804C;
+    color:  white;
+    padding: 5px;
+    font-weight: bold;
+    border: solid 1px #A45C37;
+}
